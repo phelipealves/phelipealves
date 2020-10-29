@@ -1,5 +1,5 @@
 <p align="center">
-<h1>Hi there. I'm Phelipe.</h1>
+<h1>I'm Phelipe.</h1>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
